@@ -1,0 +1,6 @@
+
+cms-prismic/.env.local
+
+.next
+node_modules
+out
